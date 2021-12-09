@@ -10,4 +10,4 @@ TextStyle textTitle =
     TextStyle(color: blackColor, fontWeight: FontWeight.w500, fontSize: 16);
 
 TextStyle subtitle =
-    TextStyle(color: blackColor, fontWeight: FontWeight.w300, fontSize: 14);
+    TextStyle(color: grey, fontWeight: FontWeight.w300, fontSize: 14);
